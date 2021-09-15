@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+}
+title {
+    font-family: arial;
+}
+body{
+    background-color: silver;
+}
+h2 {
+    color: teal;
+}
+
+h2 {font-family: Georgia;
+}
+li {
+    color: black;
+}
+a {
+    color: brown;
+}
+p {
+    background-color: darkorange
+    
+}
+p {
+    color: firebrick;
+}
